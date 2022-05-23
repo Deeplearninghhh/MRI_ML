@@ -1,4 +1,4 @@
-# Classification  And Predict Codes
+# Classification  And Prediction Codes
 
 The folders are organized as follows:
 
